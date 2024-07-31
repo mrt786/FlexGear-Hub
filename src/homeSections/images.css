@@ -1,0 +1,12 @@
+.img{
+    width:30%;
+}
+
+:hover.img{
+    width: 33%;
+}
+
+.center{
+    margin-left: 45%;
+    margin-top: 20px;
+}
